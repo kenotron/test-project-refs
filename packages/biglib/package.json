@@ -1,0 +1,15 @@
+{
+  "name": "biglib",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -b"
+  },
+  "dependencies": {
+    "util": "*"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.2"
+  }
+}
