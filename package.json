@@ -5,6 +5,9 @@
   "main": "index.js",
   "license": "MIT",
   "workspaces": [
-    "blah"
-  ]
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.13.2"
+  }
 }
